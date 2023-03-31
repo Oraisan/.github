@@ -4,7 +4,7 @@
 Gitbook: 
 ## Project Link
 
-Oraisan-Bridge-App: 
+Oraisan-Bridge-App: https://github.com/Oraisan/Oraisan-Frontend-Demo
 
 Server: https://github.com/Oraisan/Oraisan-Server-Demo
 
