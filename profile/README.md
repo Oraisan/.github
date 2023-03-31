@@ -23,6 +23,7 @@ Discord:
 ## Bug Tracker
 
 Bug Tracker Link: 
+[App](https://github.com/Oraisan/Oraisan-Frontend-Demo/issues)
 
 [Server](https://github.com/Oraisan/Oraisan-Server-Demo/issues)
 
