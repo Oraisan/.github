@@ -1,5 +1,5 @@
 # Welcome to Oraisan Organization
-
+We bulid a decentralized Bridge to transfer asset from Cosmos to Ethereum using Zero-knowledge proof (ZKP).
 ## Protocol Document
 Gitbook: 
 ## Project Link
